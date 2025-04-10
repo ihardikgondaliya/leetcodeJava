@@ -1,2 +1,2 @@
 # leetcodeJava
-Leetcode Problems
+Meta Leetcode problems and its variants in Java.
